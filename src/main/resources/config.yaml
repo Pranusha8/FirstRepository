@@ -1,0 +1,8 @@
+http:
+  port: "8081"
+sfdc:
+  username: "pranusha8@gmail.com"
+  password: "Nellore@123"
+  token: "Wrcmbv7tIAroxvyabzu6lvcb"
+file:
+  accountsdir: "D:/Pranusha/Mulesoft"
